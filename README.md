@@ -1,6 +1,4 @@
-# talk_templates
-
-Talk templates
+# :loudspeaker: Talk templates
 
 
 ## Xaringan templates 
@@ -13,7 +11,8 @@ There are several themes available (see https://github.com/yihui/xaringan/wiki/T
 
 ### Themes 
 
-- `tamu_like` inSileco theme inspired by the [TAMU template](https://github.com/nanhung/xaringan-tamu).
+- `tamu_like` inSileco theme inspired by the [TAMU template](https://github.com/nanhung/xaringan-tamu). 
+- `hygge`: use the `hygge` theme.
 
 
 ### How to get a pdf version

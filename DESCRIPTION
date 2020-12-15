@@ -1,14 +1,18 @@
 Package: placeholder
-Type: Talk templates
-Title: inSileco
+Type: template
+Title: inSileco talk templates
 Version: 0.0.0.9000
 Authors@R: c(
   person("inSileco Inc.", role = c("aut", "cre"), email = "kevin.cazelles@gmail.com")
   )
 Imports:
+  countdown
   fontawesome,
+  icon,
   xaringan,
   mapview
 Remotes: 
   rstudio/fontawesome
+  mitchelloharawild/icon
+  gadenbuie/countdown
 
