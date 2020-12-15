@@ -1,0 +1,194 @@
+.remark-code-line-highlighted {
+  background-color: #9FD9D8;
+  border-radius: 12px;
+}
+
+.remark-slide-content {
+  border-right: 5px solid #37abc8;
+  border-left: 5px solid #37abc8;
+  padding: .2em;
+  margin: .15em;
+  font-size: 24px;
+  color: #222;
+}
+
+.remark-slide-number {
+  font-size: 10pt;
+  margin-bottom: -11.6px;
+  margin-right: 10px;
+  color: #fff; /* white */
+  opacity: 0; /* default: 0.5 */
+}
+
+
+.remark-slide-content p, .remark-slide-content ul, .remark-slide-content ol {
+  margin: .15em;
+}
+
+.remark-slide-content h1 {
+  font-size: 54px;
+  border-bottom: 3px solid;
+  margin: .14em .1em .32em .1em;
+}
+
+.remark-slide-content h2 {
+  font-size: 46px;
+  margin: .28em .1em;
+}
+
+.remark-slide-content h3 {
+  font-size: 42px;
+  padding-left: 0.2em;
+  margin: .24em .1em;
+}
+
+.remark-slide-content h4 {
+  font-size: 36px;
+  padding-left: 0.4em;
+  margin: .22em .1em;
+}
+
+.remark-slide-content h5 {
+  font-size: 32px;
+  padding-left: 0.7em;
+  margin: .2em .1em;
+}
+
+
+.remark-slide-content h6 {
+  font-size: 28px;
+  padding-left: 1em;
+  margin: .2em .1em;
+}
+
+a, a > code {
+  color: #37abc8;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+
+
+.remark-code, .remark-inline-code {
+    color: #37abc8;
+    background-color: #f3f3f3;  font-size: 90%;
+}
+
+
+
+
+
+
+.alert {
+  color: #c7254e;
+  font-weight: bold;
+}
+
+.comment {
+  color: #8555b4;
+  font-style: italic;
+}
+
+
+.Huge {
+  font-size: 2.8em;
+}
+
+.huge {
+  font-size: 2.4em;
+}
+
+.Large {
+  font-size: 1.8em;
+}
+
+.large {
+  font-size: 1.2em;
+}
+
+.small {
+  font-size: .8em;
+}
+
+.tiny {
+  font-size: .4em;
+}
+
+.sotiny {
+  font-size: .25em;
+}
+
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 60%;
+}
+
+.remark-slide-content blockquote {
+  font-size: 1.1em;
+  padding-left: 1em;
+}
+
+
+
+
+
+
+
+
+
+.inverse {
+  border-left: 5px solid #f3f3f3;
+  border-right: 5px solid #f3f3f3;
+  background-color: #37abc8;
+  color: #f3f3f3;
+}
+
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #f3f3f3;
+}
+
+
+table {
+  margin: auto;
+  font-size: 90%;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+
+.shrink {
+  margin: auto;
+  width: 90%;
+}
+
+.enlarge {
+  margin: auto;
+  width: 110%;
+}
+
+
+
+/* for title page  */
+.maintitle {
+  font-size: 3em;
+  color: #37abc8;
+  text-align: center;
+}
+
+
+
+/* help style */
+
+.remark-help-content h1 {
+    color: #fff;
+}
+
+.remark-help {
+    color: #fff;
+}
+
+.remark-help tr:nth-child(even) {
+  background-color: #999;
+}

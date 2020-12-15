@@ -1,0 +1,14 @@
+Package: placeholder
+Type: Talk templates
+Title: inSileco
+Version: 0.0.0.9000
+Authors@R: c(
+  person("inSileco Inc.", role = c("aut", "cre"), email = "kevin.cazelles@gmail.com")
+  )
+Imports:
+  fontawesome,
+  xaringan,
+  mapview
+Remotes: 
+  rstudio/fontawesome
+
