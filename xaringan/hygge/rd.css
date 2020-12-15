@@ -1,5 +1,5 @@
 a {
-  color: #1f8de7;
+  color: #37abc8;
 }
 
 a:hover, a:active {
@@ -15,10 +15,10 @@ a:hover, a:active {
     background-color: #FAFAFA;
     border-top: 80px solid rgb(11, 43, 70);
     font-size: 23px;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 1.5;
-    padding: 1em 2em 1em 2em;
-    color: #193e5d;
+    padding: .8em .8em 1.2em .8em;
+    color: rgb(11, 43, 70);
   }
   
 
@@ -30,12 +30,17 @@ a:hover, a:active {
   .remark-slide-content > h1 {
     font-family: 'Roboto Slab';
     font-weight: normal;
-    font-size: 37px;
+    font-size: 42px;
     margin-top: -95px;
-    margin-bottom: 70px;
+    margin-bottom: 30px;
     margin-left: -00px;
     color: #FAFAFA;
   }
+  
+  .inverse > h1 {
+    margin-bottom: 60px;
+  }
+  
   
   .remark-slide-content > inverse {
     width: 112px;
@@ -51,7 +56,7 @@ a:hover, a:active {
   .remark-slide-content > h2, h3, h4 {
     padding-top: -30px;
     padding-bottom: 00px;
-    color: #2d5170;
+    color: rgb(11, 43, 70);
     text-shadow: none;
     font-weight: 400;
     text-align: left;

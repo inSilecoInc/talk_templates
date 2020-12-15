@@ -17,3 +17,9 @@ remark.macros.upper = function () {
   // `this` is the value in the parenthesis, or undefined if left out
   return this.toUpperCase();
 };
+
+
+remark.macros.custom_hr = function(width, height) {
+  return '<html><div style="float:left"></div><hr color="#ffdd55" style="margin-top:-60px" size=1px width=720px></html>'
+}
+
