@@ -43,7 +43,7 @@ knitr::opts_chunk$set(
   width = 120
 )
 mypar <- list(fg = "#37abc8", bg = "transparent", las = 1)
-library(icon)
+library(icons)
 ```
 
 ---
@@ -66,7 +66,7 @@ class: inverse, center, middle
 
 ![:custom_hr]()
 
-## Just do it (`r icon::ionicons("logo-markdown")` + `r icon::fontawesome("r-project")`)
+## Just do it (`r icons::ionicons("logo-markdown")` + `r icons::fontawesome("r-project")`)
 
 
 
