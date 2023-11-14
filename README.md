@@ -1,5 +1,22 @@
 # :loudspeaker: Talk templates
 
+## Before starting with `hygge` template
+
+Install the following packages:
+
+```R
+install.packages('countdown')
+devtools::install_github("ropenscilabs/icon")
+```
+
+Once the `ìcon` package has been installed, you will have to download icons libraries.
+
+```R
+icons::download_ionicons()
+icons::download_fontawesome()
+```
+
+Be aware that the package is named `icon` on github but uses the namespace `icons`.
 
 ## Xaringan templates 
 
